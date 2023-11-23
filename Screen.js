@@ -100,7 +100,7 @@ const styles = StyleSheet.create({
     },
     headerTextContainer: {
         flex: 1,
-        marginLeft: 10,
+        marginLeft: 11,
     },
     pageName: {
 
